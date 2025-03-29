@@ -14,6 +14,7 @@ export function About(){
                     <Image 
                     src={fitsobre}
                     fill
+                      alt='foto'
                     quality={100}
                     className="object-cover hover:scale-110 duration-300"
                     priority

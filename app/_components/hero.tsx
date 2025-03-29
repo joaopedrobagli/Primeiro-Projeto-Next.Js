@@ -9,6 +9,7 @@ export function Hero(){
                 <Image
                 src={fitacad}
                 fill
+                  alt='foto'
                 sizes='100vw'
                 priority
                 className='object-cover opacity-60 lg:hidden'
